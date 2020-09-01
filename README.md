@@ -2,7 +2,7 @@
 
 I am a JavaScript Engineer from Birmingham, AL and FOSS supporter.
 
-- 🧔 [Private Tutor](https://www.wyzant.com/Tutors/WebDevWithJoshua)
+- 🏫 [Private Tutor](https://www.wyzant.com/Tutors/WebDevWithJoshua)
 - 💻 [Consultant](https://scotthowardconsulting.com/)
 - 🖋 [Writer](https://medium.com/@JShoemakerDev)
 - 🦚 [Sometime Tweeter](https://twitter.com/JShoemakerDev)
