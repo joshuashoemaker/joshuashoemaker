@@ -8,18 +8,18 @@ I am a JavaScript Engineer from Birmingham, AL and FOSS supporter.
 - 🦚 [Sometime Tweeter](https://twitter.com/JShoemakerDev)
 
 
-# Current Projects
+## Current Projects
 
-## 👍 [dataLovelace.app](https://datalovelace.app)
+### 👍 [dataLovelace.app](https://datalovelace.app)
 Lovelace is a FOSS tool for indivisuals and organizations to take their data from various sources, manipulate it, related it, and report on it without the need of expensive tools or developer skills.
 
-## 👍 [lovelacejs](https://www.npmjs.com/package/lovelacejs)
+### 👍 [lovelacejs](https://www.npmjs.com/package/lovelacejs)
 NPM package that powers [dataLovelace.app](https://datalovelace) for easily turning sets of data into objects that can manipulate the data with easy to create configurations.
 
-## 🛠 brightScreen.io
+### 🛠 brightScreen.io
 brightScreen is an platform for Instructors to create interactive coding lessons as companions to their written or video content. For consumers it is a VS Code extention to work through these lessons in the worlds favorite text editor.
 
-# Organizations
+## Organizations
 
 ## 🏢 [SHC](https://scotthowardconsulting.com/)
 At Scott Howard Consulting we take pride in living up to our slogan: `Designing Software that Fits`. I lead our web development team in creating powerful tools for our clients with web technologies
