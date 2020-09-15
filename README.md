@@ -13,13 +13,10 @@ I am a JavaScript Engineer from Birmingham, AL and FOSS supporter.
 
 ## Current Projects
 
-### 👍 [dataLovelace.app](https://datalovelace.app) - [Repo]()
-
-![Data Lovelace Example](https://github.com/joshuashoemaker/datalovelace/blob/master/docs/graphExample.png)
-
+### 👍 [dataLovelace.app](https://datalovelace.app) - [Repo](https://github.com/joshuashoemaker/datalovelace)
 Lovelace is a FOSS tool for indivisuals and organizations to take their data from various sources, manipulate it, relate it, and report on it without the need of expensive tools or developer skills.
 
-### 👍 [lovelacejs](https://www.npmjs.com/package/lovelacejs)
+### 👍 [lovelacejs](https://www.npmjs.com/package/lovelacejs) - [Repo](https://github.com/joshuashoemaker/lovelacejs)
 NPM package that powers [dataLovelace.app](https://datalovelace) for easily turning sets of data into objects that can manipulate the data with easy to create configurations.
 
 ### 🛠 [brightScreen](https://github.com/joshuashoemaker/brightScreen)
