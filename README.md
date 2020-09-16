@@ -19,8 +19,8 @@ Lovelace is a FOSS tool for indivisuals and organizations to take their data fro
 ### 🎁 [lovelacejs](https://www.npmjs.com/package/lovelacejs) - [Repo](https://github.com/joshuashoemaker/lovelacejs)
 NPM package that powers [dataLovelace.app](https://datalovelace) for easily turning sets of data into objects that can manipulate the data with easy to create configurations.
 
-### 👩‍💻 [brightScreen](https://github.com/joshuashoemaker/brightScreen)
-brightScreen is an platform for Instructors to create interactive coding lessons as companions to their written or video content. For consumers it is a VS Code extention to work through these lessons in the worlds favorite text editor. Very much still under development
+### 👩‍💻 [brightScreen](https://marketplace.visualstudio.com/items?itemName=Tzedakah.brightscreen) - [Repo](https://github.com/joshuashoemaker/brightScreen)
+brightScreen is an platform for Instructors to create interactive coding lessons as companions to their written or video content. For consumers it is a VS Code extention to work through these lessons in the worlds favorite text editor.
 
 ## Organizations
 
