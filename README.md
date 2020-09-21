@@ -27,5 +27,5 @@ brightScreen is an platform for Instructors to create interactive coding lessons
 ### 🏢 [SHC](https://scotthowardconsulting.com/)
 At Scott Howard Consulting we take pride in living up to our slogan: `Designing Software that Fits`. I lead our web development team in creating powerful tools for our clients with web technologies
 
-### 💻 Tzedakah
+### 💻 [Tzedakah](https://tzedakahsoftware.com)
 Tzedakah is the umbrella under which I create FOSS tools and resources. My goal is to develop `Software Serving Others`
