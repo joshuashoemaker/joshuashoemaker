@@ -13,13 +13,13 @@ I am a JavaScript Engineer from Birmingham, AL and FOSS supporter.
 
 ## Current Projects
 
-### 🚀 [dataLovelace.app](https://datalovelace.app) - [Repo](https://github.com/joshuashoemaker/datalovelace)
+### <img src='https://raw.githubusercontent.com/joshuashoemaker/datalovelace/master/src/img/adaLovelace.jpg' width=24px> [dataLovelace.app](https://datalovelace.app) - [Repo](https://github.com/joshuashoemaker/datalovelace)
 Lovelace is a FOSS tool for indivisuals and organizations to take their data from various sources, manipulate it, relate it, and report on it without the need of expensive tools or developer skills.
 
-### 🎁 [lovelacejs](https://www.npmjs.com/package/lovelacejs) - [Repo](https://github.com/joshuashoemaker/lovelacejs)
-NPM package that powers [dataLovelace.app](https://datalovelace) for easily turning sets of data into objects that can manipulate the data with easy to create configurations.
+### <img src='https://raw.githubusercontent.com/joshuashoemaker/textualize/master/src/media/logo.svg' width=24px> [textualize.app](https://textualize.app) - [Repo](https://github.com/joshuashoemaker/textualize)
+With textualize you can images of newspaper articles, books, and other documents into text, all within your browser. This tool was develop to provide a free and easy tool for digitizers and archivist.
 
-### 👩‍💻 [brightScreen](https://marketplace.visualstudio.com/items?itemName=Tzedakah.brightscreen) - [Repo](https://github.com/joshuashoemaker/brightScreen)
+### <img src='https://raw.githubusercontent.com/joshuashoemaker/brightScreen/master/logoBlue.png' width=24px>  [brightScreen](https://marketplace.visualstudio.com/items?itemName=Tzedakah.brightscreen) - [Repo](https://github.com/joshuashoemaker/brightScreen)
 brightScreen is an platform for Instructors to create interactive coding lessons as companions to their written or video content. For consumers it is a VS Code extention to work through these lessons in the worlds favorite text editor.
 
 ## Organizations
